@@ -3,6 +3,8 @@
 This is a task management application built with Next.js and Tailwind CSS. It allows users to create, organize, and manage their tasks. The application utilizes the browser's local storage to store the tasks, providing a seamless experience across sessions.
 
 ## Screnshots
+![Screenshot 2023-07-07 172824](https://github.com/AyushBathre2001/Task-Management-System/assets/97656404/1958015e-e1bd-4132-a2d3-63ca9f2409ac)![Screenshot 2023-07-07 172937](https://github.com/AyushBathre2001/Task-Management-System/assets/97656404/17beb244-d00a-4902-96d2-d37bc78e06f5)
+
 
 
 
