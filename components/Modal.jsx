@@ -43,7 +43,7 @@ const Modal = ({edit,onClose,fetch}) => {
   return (
     <div className={`shadow flex items-center justify-center z-20 w-full fixed top-0 min-h-screen bg-white bg-opacity-60 `}>
       <div className="modal relative p-6 flex flex-col items-center justify-start w-[400px] h-[450px] rounded-md bg-blue-100 shadow-lg ">
-      <i onClick={onClose} class="ri-close-circle-fill absolute text-2xl top-1 right-1 cursor-pointer"></i>
+      <i onClick={onClose} className="ri-close-circle-fill absolute text-2xl top-1 right-1 cursor-pointer"></i>
         <p className='font-semibold text-xl text-gray-700'>Edit</p>
         <div className='flex mt-8 w-[80%] flex-col items-start justify-center '>
             <label htmlFor="title">Title</label>
