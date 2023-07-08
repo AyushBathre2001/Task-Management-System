@@ -117,6 +117,7 @@ const Home = () => {
   }
 
   useEffect(() => {
+    localStorage.setItem("mytodos",JSON.stringify([]))
     fetchTasks("todo")
 
   }, [])
